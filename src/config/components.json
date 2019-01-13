@@ -1,0 +1,7 @@
+module.exports = {
+  "main": "gp.mobile",
+  "about": "gp.about",
+  "sermons": "gp.sermons",
+  "bible": "gp.bible",
+  "service": "gp.service"
+}
