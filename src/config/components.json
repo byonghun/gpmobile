@@ -1,4 +1,4 @@
-module.exports = {
+{
   "main": "gp.mobile",
   "about": "gp.about",
   "sermons": "gp.sermons",
