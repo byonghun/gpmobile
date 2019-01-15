@@ -3,5 +3,8 @@
   "about": "gp.about",
   "sermons": "gp.sermons",
   "bible": "gp.bible",
-  "service": "gp.service"
+  "service": "gp.service",
+  "prayer": "gp.prayer",
+  "profile": "gp.profile",
+  "sermonAudio": "gp.sermonAudio"
 }
